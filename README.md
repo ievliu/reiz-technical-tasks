@@ -1,4 +1,4 @@
-# Completed technical assingment for Reiz
+# Completed technical assignment for Reiz
 
 ### Contains two main projects for each of the tasks:
 - AnalogueClock
